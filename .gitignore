@@ -26,3 +26,11 @@ venv/
 input.txt
 
 /OOP/
+
+ch06/sms_spam_collection*
+ch06/test.csv
+ch06/train.csv
+ch06/validation.csv
+
+
+
